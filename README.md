@@ -1,3 +1,3 @@
 # Retrieval-Augmented-Generation \(RAG\)
 
-This repository contains all notebooks and experiments associated with our major project, including lab work, implementations, and supporting analysis.
+This repository contains my Coursera learning materials for Retrieval-Augmented Generation (RAG), including lecture notes, PDFs, practice notebooks, and experiment files.
